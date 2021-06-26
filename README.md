@@ -9,9 +9,11 @@ The purpose of this analysis is to provide Steve with easy-to-read knowledge on 
 Regarding performance for the stocks in 2017, the difference the refactored script made was enormous (see images below). 
 
 Original
+
 <img width="352" alt="Original 2017" src="https://user-images.githubusercontent.com/85330159/123522400-406a6200-d67a-11eb-9856-bb4875e00a1f.png">
 
 Refactored
+
 <img width="354" alt="Refactored 2017" src="https://user-images.githubusercontent.com/85330159/123522402-46f8d980-d67a-11eb-8600-5c01444c08ea.png">
 
 In the refactored script, we were tasked to create an array to use for the output table. This is most of what changed the look of the table from mostly red to mostly green in the Return column. This would also explain the significant reduction in run time from the first original script to the refactored version (see images below).
